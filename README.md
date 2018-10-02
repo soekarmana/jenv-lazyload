@@ -1,8 +1,9 @@
 # jenv-lazyload
 
 load jenv without slowing down your shell
-based on : https://gist.github.com/lukeshiru/e239528fbcc4bba9ae2ef406f197df0c
-see the full article & discussion at : https://www.growingwiththeweb.com/2018/01/slow-nvm-init.html
+
+ - based on : https://gist.github.com/lukeshiru/e239528fbcc4bba9ae2ef406f197df0c
+ - see the full article & discussion at : https://www.growingwiththeweb.com/2018/01/slow-nvm-init.html
 
 Requirement :
 - [zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
